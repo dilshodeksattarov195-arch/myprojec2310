@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "tokenfpdate",
+        "uuid": 15608670,
+        "checksum": "pf4gvl"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
